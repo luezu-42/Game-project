@@ -3,8 +3,10 @@ body{
     margin: 0;
     display: flex;
     justify-content: center;
+    background-color: rgb(59, 59, 59);
 }
 
 canvas{
     border: 2px solid black;
+    background: radial-gradient(ellipse at bottom, #14375f, #111);
 }
